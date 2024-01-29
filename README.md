@@ -38,8 +38,7 @@ Asegúrese de tener instalado lo siguiente antes de ejecutar la aplicación:
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/ensolvers-github-challenges/Canete-5c0b16.git
-   cd Canete-5c0b16.git
+      git clone -b 001-app-de-notas https://github.com/imdaviddev/100-proyectos.git
    ```
    
 ## Configurar la Base de Datos
@@ -74,9 +73,9 @@ Asegúrese de tener instalado lo siguiente antes de ejecutar la aplicación:
 ## Ejecutar el Frontend
 
 ```bash
-cd frontend
-npm install
-npm run dev
+   cd frontend
+   npm install
+   npm run dev
 ```
 
 ## Acceder a la Aplicación
