@@ -364,7 +364,7 @@ button {
         height: 22vh;
 
         right: 0;
-        top: 7rem;
+        top: 9vh;
         border-top: solid var(--cls-detalles) 1px;
         background-color: var(--cls-navbar);
 
@@ -375,6 +375,8 @@ button {
         
 
         padding-top: 1.5rem;
+
+        z-index: 3
     }
 
     .header.toggle-open .navbar .navbar-options {
