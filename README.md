@@ -1,4 +1,4 @@
-# NotasHub
+# App de Notas
 
 ## Descripción
 NoteHub es una aplicación de gestión de notas construida con tecnologías modernas como React, Spring Boot y MySQL. Permite a los usuarios crear, editar, eliminar y archivar notas de manera eficiente.
